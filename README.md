@@ -1,2 +1,0 @@
-# influencer
-Created with CodeSandbox
